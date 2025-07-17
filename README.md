@@ -40,7 +40,8 @@ This project aims to analyze the Superstore dataset to uncover trends in sales p
 - <a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/05_sales_performance%20%26forcasting.png>Sales_forecasting_performance</a>
 -	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/06_profitability_margins.png>Profitability_margins</a>
 -	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/07_products_strategy_insights.png>Product_strategy_insights</a>
--	<a href=Region_strategy
+-	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/08_regional_strategy.png>Region_strategy</a>
+- <a href=Recommendation</a>
 
 ## Key Insights
 -	Monthly sales performance: November showed peak sales; February has the lowest
