@@ -36,8 +36,8 @@ This project aims to analyze the Superstore dataset to uncover trends in sales p
 -	Filtered out invalid discount or sales values
 -	Converted data formats and ensured consistency
 
-## Dashboard Themes
--	Sales Forecasting & Performance
+## Visuals
+- <a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/05_sales_performance%20%26forcasting.png>Sales_forecasting_performance</a>
 -	Profitability & Margins
 -	Product Strategy Insights
 -	Region Strategy
