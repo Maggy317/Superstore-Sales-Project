@@ -38,8 +38,8 @@ This project aims to analyze the Superstore dataset to uncover trends in sales p
 
 ## Visuals
 - <a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/05_sales_performance%20%26forcasting.png>Sales_forecasting_performance</a>
--	Profitability & Margins
--	Product Strategy Insights
+-	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/06_profitability_margins.png>Profitability_margins</a>
+-	<a href=Product_strategy_insights
 -	Region Strategy
 
 ## Key Insights
