@@ -22,7 +22,7 @@ This project aims to analyze the Superstore dataset to uncover trends in sales p
 
 ## Data Description
 - <a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/01_raw%20dataset.xlsx>Raw dataset</a>
-- 
+- <a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/02_Superstore_Cleaned_Dataset.xlsx>Cleaned dataset</a>
 
 ## Tools
 -	Microsoft Excel (pivot tables, trendlines, forecasting)
