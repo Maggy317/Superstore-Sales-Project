@@ -41,7 +41,7 @@ This project aims to analyze the Superstore dataset to uncover trends in sales p
 -	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/06_profitability_margins.png>Profitability_margins</a>
 -	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/07_products_strategy_insights.png>Product_strategy_insights</a>
 -	<a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/08_regional_strategy.png>Region_strategy</a>
-- <a href=Recommendation</a>
+- <a href=https://github.com/Maggy317/Superstore-Sales-Project/blob/main/04_Visuals/09_recommendations.png>Recommendation</a>
 
 ## Key Insights
 -	Monthly sales performance: November showed peak sales; February has the lowest
@@ -51,7 +51,7 @@ This project aims to analyze the Superstore dataset to uncover trends in sales p
 
 ## Recommendation
 -	Focus marketing in November; run off-season discounts in February
--	Discontinue low-performing products like Eureka Bags
+-	Discontinue low-performing products like Eureka Disposable Bags
 -	Prioritize Technology products for marketing and bundling
 -	Optimize shipping costs and pricing in the Central region
 -	Invest in growing the West region further
